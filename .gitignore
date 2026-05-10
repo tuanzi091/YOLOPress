@@ -1,0 +1,13 @@
+venv/
+env/
+*.pth
+*.pt
+*.bin
+*.pkl
+__pycache__/
+*.pyc
+*.pyo
+*.dll
+*.lib
+*.so
+*.dylib
